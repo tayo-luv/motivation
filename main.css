@@ -1,0 +1,53 @@
+*{
+	
+	margin-top:3.6vh;
+	margin-left:10.5vh;
+
+}
+
+a{
+	text-decoration: none;
+	color: #012;
+}
+a:hover{
+	color: #133;
+}
+
+.right_content{
+	
+	width: 50vh;
+	margin-left:120vh;
+	
+}
+
+.left_content{
+	
+	width: 50vh;
+	
+}
+
+.headline_cursive {
+		
+	text-align: left;
+	
+	font-style: italic;
+	font-weight: 400;
+	font-size:7.5vh;	
+	color: color(srgb 0.144 0.144 0.144);
+	
+}
+
+.under_headline_standart{
+	
+	font-weight: 200;
+	font-size:6.5vh;	
+	color: color(srgb 0.144 0.144 0.144);
+	
+}
+
+.text_normal{
+	
+	font-weight: 200;
+	font-size: 4vh;	
+	
+}
